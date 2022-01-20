@@ -15,7 +15,6 @@ public class Zadatak1 {
     Knjiga fourth=new Knjiga("129-192-99999","Estoril",2015,ds);
     
     first.print();
-    System.out.println();
     second.print();
     third.print();
     fourth.print();

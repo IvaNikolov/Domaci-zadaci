@@ -89,6 +89,6 @@ public class Transakcija {
 	public void print() {
 		System.out.println(this.idTransakcije);
 	    this.getRacunaSaKogaSePrenose().print();
-        this.getRacunNaKojiSePrenose().print();
+		this.getRacunNaKojiSePrenose().print();
 	}
 }
