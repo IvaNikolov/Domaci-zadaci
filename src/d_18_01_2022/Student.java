@@ -91,7 +91,7 @@ public void print() {
 	for (int i = 0; i < ispiti.size(); i++) {
 		this.getIspiti().get(i).print();
 	}
-	System.out.println("Prosecna ocena:"+this.prosek());
+	System.out.println("Prosecna ocena:"+this.prosek()); 
 }
 }
 
