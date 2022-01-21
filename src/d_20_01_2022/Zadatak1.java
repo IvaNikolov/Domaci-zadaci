@@ -14,18 +14,13 @@ public class Zadatak1 {
 		Trener second = new Trener("Pera Peric", "0189651583", 1977, 20, "pomocni");
 
 		s.stampaj();
-		
+
 		first.stampaj();
 	}
 //	(Za vezbanje) U glavnom programu kreirati niz igraca i niz trenera, na kraju programa ispisati sve igrace i trenere.
 // Podatke za igrace i trenere unosi korisnik sa tastature.
- //   ArrayList<Igrac>igraci=new ArrayList<Igrac>();
-  //  Scanner s=new Scanner(System.in),
-  //  for(int i=0;i<igraci.size;i++) {
-    	
-    	
-    	
-    	
-   
-    	
+	// ArrayList<Igrac>igraci=new ArrayList<Igrac>();
+	// Scanner s=new Scanner(System.in),
+	// for(int i=0;i<igraci.size();i++) {
+
 }
